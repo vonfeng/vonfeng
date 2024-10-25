@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am [Jie Feng](https://vonfeng.github.io/), currently a postdoc at the Department of Electronics Engineering at Tsinghua University and work in [FIB Lab](https://github.com/tsinghua-fib-lab). 
+I am [Jie Feng](https://vonfeng.github.io/), currently a postdoctoral researcher in the Department of Electronics Engineering at Tsinghua University, working in [FIB Lab](https://github.com/tsinghua-fib-lab). 
 
 - 🔭 I’m currently focused on LLMs, VLMs, and their applications in spatiotemporal data mining and urban science.
 - 🌱 You can find my full publication via [Google Scholar](https://scholar.google.com/citations?hl=en&user=uvLx-GAAAAAJ). Some of my proudest recent works:
