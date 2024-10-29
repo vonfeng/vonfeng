@@ -32,7 +32,7 @@ jobs:
       - name: Create badge
         uses: schneegans/dynamic-badges-action@v1.7.0
         with:
-          auth: ${{ secrets.GITHUB_TOKEN }}
+          auth: ${{ secrets.GIST }}
           gistID: 23831578b7424235b195fc46caa8a70b
           filename: test.json
           label: "Total Stars"
