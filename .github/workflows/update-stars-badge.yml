@@ -30,7 +30,7 @@ jobs:
           echo $TOTAL_STARS > total_stars.txt
 
       - name: Create badge
-        uses: schneegans/dynamic-badges-action@v1
+        uses: schneegans/dynamic-badges-action
         with:
           auth: ${{ secrets.GITHUB_TOKEN }}
           label: "Total Stars"
