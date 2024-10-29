@@ -1,0 +1,48 @@
+name: Update Stars Badge
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'   # 每月更新一次
+  workflow_dispatch:      # 允许手动触发
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Calculate total stars
+        run: |
+          # 使用 curl 获取每个仓库的星标数
+          REPOS=("vonfeng/DeepMove" "vonfeng/DPLink" "vonfeng/DeepSTN" "vonfeng/DeepMapMatching" "FIBLAB/DeepSTN" "FIBLAB/MoveSim" "FIBLAB/3D-DGCN" "tsinghua-fib-lab/CityBench" "tsinghua-fib-lab/AgentMove" "tsinghua-fib-lab/CityGPT" "tsinghua-fib-lab/Traffic-Benchmark" "tsinghua-fib-lab/LIMP" "tsinghua-fib-lab/UniST" "tsinghua-fib-lab/PlanBench" )
+          TOTAL_STARS=0
+
+          for REPO in "${REPOS[@]}"
+          do
+            STARS=$(curl -s "https://api.github.com/repos/$REPO" | jq -r '.stargazers_count')
+            TOTAL_STARS=$((TOTAL_STARS + STARS))
+          done
+
+          echo "Total stars: $TOTAL_STARS"
+
+          echo $TOTAL_STARS > total_stars.txt
+
+      - name: Create badge
+        uses: schneegans/dynamic-badges-action@v1
+        with:
+          auth: ${{ secrets.GITHUB_TOKEN }}
+          label: "Total Stars"
+          message: ${{ steps.calculate-total-stars.outputs.total_stars }}
+          color: "green"
+          style: "social"
+          named-logo: "github"
+
+      - name: Commit and push badge
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add badge.svg
+          git commit -m "Update total stars badge"
+          git push

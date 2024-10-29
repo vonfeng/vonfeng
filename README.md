@@ -2,6 +2,11 @@
 
 I am [Jie Feng](https://vonfeng.github.io/), currently a postdoctoral researcher in the Department of Electronics Engineering at Tsinghua University, working in [FIB Lab](https://github.com/tsinghua-fib-lab). 
 
+<a href='https://vonfeng.github.io/'><img src='https://img.shields.io/badge/Home-Page-green' /></a>&nbsp;
+<a href='https://scholar.google.com/citations?hl=en&user=uvLx-GAAAAAJ'><img src='https://img.shields.io/badge/Google-Scholar-blue' /></a>&nbsp;
+![Total Stars](https://raw.githubusercontent.com/vonfeng/vonfeng/main/badge.svg)
+<img src='https://img.shields.io/github/followers/vonfeng?color=green&style=social' />
+
 - 🔭 I’m currently focused on LLMs, VLMs, and their applications in spatiotemporal data mining and urban science.
 - 🌱 You can find my full publication via [Google Scholar](https://scholar.google.com/citations?hl=en&user=uvLx-GAAAAAJ). Some of my proudest recent works:
   - [CityGPT](https://github.com/tsinghua-fib-lab/CityGPT): empowering urban spatial cognition of large language models.
