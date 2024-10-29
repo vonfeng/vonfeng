@@ -27,22 +27,15 @@ jobs:
 
           echo "Total stars: $TOTAL_STARS"
 
-          echo $TOTAL_STARS > total_stars.txt
+          echo "total_stars=$TOTAL_STARS" >> $GITHUB_ENV
 
       - name: Create badge
-        uses: schneegans/dynamic-badges-action
+        uses: schneegans/dynamic-badges-action@v1.7.0
         with:
           auth: ${{ secrets.GITHUB_TOKEN }}
+          gistID: 23831578b7424235b195fc46caa8a70b
           label: "Total Stars"
-          message: ${{ steps.calculate-total-stars.outputs.total_stars }}
+          message: ${{ env.total_stars }}
           color: "green"
           style: "social"
           named-logo: "github"
-
-      - name: Commit and push badge
-        run: |
-          git config --local user.name "GitHub Actions"
-          git config --local user.email "actions@github.com"
-          git add badge.svg
-          git commit -m "Update total stars badge"
-          git push

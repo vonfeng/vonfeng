@@ -4,7 +4,7 @@ I am [Jie Feng](https://vonfeng.github.io/), currently a postdoctoral researcher
 
 <a href='https://vonfeng.github.io/'><img src='https://img.shields.io/badge/Home-Page-green' /></a>&nbsp;
 <a href='https://scholar.google.com/citations?hl=en&user=uvLx-GAAAAAJ'><img src='https://img.shields.io/badge/Google-Scholar-blue' /></a>&nbsp;
-![Total Stars](https://raw.githubusercontent.com/vonfeng/vonfeng/main/badge.svg)
+![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/vonfeng/23831578b7424235b195fc46caa8a70b/raw/test.json)
 <img src='https://img.shields.io/github/followers/vonfeng?color=green&style=social' />
 
 - 🔭 I’m currently focused on LLMs, VLMs, and their applications in spatiotemporal data mining and urban science.
