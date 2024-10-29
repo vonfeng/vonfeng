@@ -34,8 +34,8 @@ jobs:
         with:
           auth: ${{ secrets.GITHUB_TOKEN }}
           gistID: 23831578b7424235b195fc46caa8a70b
+          filename: test.json
           label: "Total Stars"
           message: ${{ env.total_stars }}
           color: "green"
           style: "social"
-          named-logo: "github"
