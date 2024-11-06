@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am [Jie Feng](https://vonfeng.github.io/), currently a postdoctoral researcher in the Department of Electronics Engineering at Tsinghua University, working in [FIB Lab](https://github.com/tsinghua-fib-lab). 
+I am [Jie Feng](https://vonfeng.github.io/), currently a postdoctoral researcher in the Department of Electronic Engineering at Tsinghua University, working in [FIB Lab](https://github.com/tsinghua-fib-lab). 
 
 <a href='https://vonfeng.github.io/'><img src='https://img.shields.io/badge/Home-Page-green' /></a>&nbsp;
 <a href='https://scholar.google.com/citations?hl=en&user=uvLx-GAAAAAJ'><img src='https://img.shields.io/badge/Google-Scholar-blue' /></a>&nbsp;
@@ -9,9 +9,10 @@ I am [Jie Feng](https://vonfeng.github.io/), currently a postdoctoral researcher
 
 - 🔭 I’m currently focused on LLMs, VLMs, and their applications in spatiotemporal data mining and urban science.
 - 🌱 You can find my full publication via [Google Scholar](https://scholar.google.com/citations?hl=en&user=uvLx-GAAAAAJ). Some of my proudest recent works:
-  - [CityGPT](https://github.com/tsinghua-fib-lab/CityGPT): empowering urban spatial cognition of large language models.
-  - [CityBench](https://github.com/tsinghua-fib-lab/CityBench): the first systematic benchmark for evaluating the capabilities of LLMs and VLMs for diverse urban tasks.
-  - [AgentMove](https://github.com/tsinghua-fib-lab/AgentMove): the first agentic framwork for zero-shot mobility prediction.
+  - [CityGPT](https://github.com/tsinghua-fib-lab/CityGPT): empowering urban spatial cognition of LLMs through synthetic data from city simulator.
+  - [CityBench](https://github.com/tsinghua-fib-lab/CityBench): the first systematic benchmark for evaluating the capabilities of LLMs and VLMs in diverse urban tasks.
+  - [AgentMove](https://github.com/tsinghua-fib-lab/AgentMove): the first LLM-based agentic framwork for zero-shot mobility prediction without training.
+  - [TrajAgent](https://github.com/tsinghua-fib-lab/TrajAgent): an LLM-based agent framework for unified trajectory modelling across diverse data and tasks. 
 - 👯 I’m looking for collaboration opportunities
   - Topics: Spatiotemporal data mining, large language models, embodied agent, etc.
   - Location: Remote or on-site at Tsinghua University
