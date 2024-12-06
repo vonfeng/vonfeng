@@ -2,7 +2,7 @@ name: Update Stars Badge
 
 on:
   schedule:
-    - cron: '0 1 * * *'   # 每月更新一次
+    - cron: '0 1 * * *'   # 每天更新一次
   workflow_dispatch:      # 允许手动触发
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
       - name: Calculate total stars
         run: |
           # 使用 curl 获取每个仓库的星标数
-          REPOS=("vonfeng/DeepMove" "vonfeng/DPLink" "vonfeng/DeepSTN" "vonfeng/DeepMapMatching" "FIBLAB/DeepSTN" "FIBLAB/MoveSim" "FIBLAB/3D-DGCN" "tsinghua-fib-lab/CityBench" "tsinghua-fib-lab/AgentMove" "tsinghua-fib-lab/CityGPT" "tsinghua-fib-lab/Traffic-Benchmark" "tsinghua-fib-lab/LIMP" "tsinghua-fib-lab/UniST" "tsinghua-fib-lab/PlanBench" "tsinghua-fib-lab/TrajAgent")
+          REPOS=("vonfeng/DeepMove" "vonfeng/DPLink" "vonfeng/DeepSTN" "vonfeng/DeepMapMatching" "FIBLAB/DeepSTN" "FIBLAB/MoveSim" "FIBLAB/3D-DGCN" "XTxiatong/AttnMove" "tsinghua-fib-lab/CityBench" "tsinghua-fib-lab/AgentMove" "tsinghua-fib-lab/CityGPT" "tsinghua-fib-lab/Traffic-Benchmark" "tsinghua-fib-lab/LIMP" "tsinghua-fib-lab/UniST" "tsinghua-fib-lab/TrajAgent" "tsinghua-fib-lab/llm-energy")
           TOTAL_STARS=0
 
           for REPO in "${REPOS[@]}"
