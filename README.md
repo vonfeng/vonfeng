@@ -9,7 +9,7 @@ I am [Jie Feng](https://vonfeng.github.io/), currently a postdoctoral researcher
 
 - 🔭 I’m currently focused on LLMs, VLMs, and their applications in spatiotemporal data mining and urban science.
 - 🌱 You can find my full publication via [Google Scholar](https://scholar.google.com/citations?hl=en&user=uvLx-GAAAAAJ). Some of my proudest recent works:
-  - [CityGPT](https://github.com/tsinghua-fib-lab/CityGPT): empowering urban spatial cognition of LLMs through synthetic data from city simulator.
+  - [CityGPT[KDD2025]](https://github.com/tsinghua-fib-lab/CityGPT): empowering urban spatial cognition of LLMs through synthetic data from city simulator.
   - [CityBench](https://github.com/tsinghua-fib-lab/CityBench): the first interactive benchmark for systematically evaluating the capabilities of LLMs and VLMs in diverse urban tasks.
   - [AgentMove[NAACL2025]](https://github.com/tsinghua-fib-lab/AgentMove): the first LLM-based agentic framework for zero-shot mobility prediction around the world.
   - [TrajAgent](https://github.com/tsinghua-fib-lab/TrajAgent): the first LLM-based agentic framework for automated trajectory modeling across diverse datasets, regions, and tasks.
