@@ -7,14 +7,14 @@ I am [Jie Feng](https://vonfeng.github.io/), currently a postdoctoral researcher
 ![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/vonfeng/23831578b7424235b195fc46caa8a70b/raw/test.json)
 <img src='https://img.shields.io/github/followers/vonfeng?color=green&style=social' />
 
-- 🔭 I’m currently focused on LLMs, VLMs, and their applications in spatiotemporal data mining and urban science.
+- 🔭 I’m currently focused on **LLMs**, **agents**, and their applications in **spatial intelligence** and **urban science**.
 - 🌱 You can find my full publication via [Google Scholar](https://scholar.google.com/citations?hl=en&user=uvLx-GAAAAAJ). Some of my proudest recent works:
-  - [CityGPT[KDD2025]](https://github.com/tsinghua-fib-lab/CityGPT): empowering urban spatial cognition of LLMs through synthetic data from city simulator.
-  - [CityBench[KDD2025]](https://github.com/tsinghua-fib-lab/CityBench): the first interactive benchmark for systematically evaluating the capabilities of LLMs and VLMs in diverse urban tasks.
-  - [AgentMove[NAACL2025]](https://github.com/tsinghua-fib-lab/AgentMove): the first LLM-based agentic framework for zero-shot mobility prediction around the world.
+  - [CityGPT[KDD2025]](https://github.com/tsinghua-fib-lab/CityGPT): a framework for empowering urban spatial cognition of general LLMs through data synthesis and self-weighted tuning.
+  - [CityBench[KDD2025]](https://github.com/tsinghua-fib-lab/CityBench): the first simulation-based evaluation benchmark for systematically evaluating the capabilities of LLMs and VLMs in diverse urban tasks.
+  - [AgentMove[NAACL2025]](https://github.com/tsinghua-fib-lab/AgentMove): the first LLM-based agentic framework for zero-shot human mobility prediction around the world.
   - [TrajAgent](https://github.com/tsinghua-fib-lab/TrajAgent): the first LLM-based agentic framework for automated trajectory modeling across diverse datasets, regions, and tasks.
 - 👯 I’m looking for collaboration opportunities
-  - Topics: Spatiotemporal data mining, large language models, embodied agent, etc.
+  - Topics: spatial intelligence, spatiotemporal data mining, large language models, embodied agent, etc.
   - Location: Remote or on-site at Tsinghua University
 - 💬 Feel free to drop me an [email](fengj12ee@hotmail.com) for:
   * Any form of collaboration
