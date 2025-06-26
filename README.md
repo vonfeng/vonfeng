@@ -9,7 +9,7 @@ I am [Jie Feng](https://vonfeng.github.io/), currently a postdoctoral fellow in 
 
 - 🔭 I’m currently focused on **spatial intelligence**, **multi-modal LLMs**, **language agents**, and **urban science**.
 - 🌱 You can find my full publication via [Google Scholar](https://scholar.google.com/citations?hl=en&user=uvLx-GAAAAAJ). Some of my proudest works:
-  - [UrbanLLaVA[ICCV2025]](https://github.com/tsinghua-fib-lab/UrbanLLaVA): a multimodal large language model for urban intelligence, integrating various urban data. 
+  - [UrbanLLaVA[ICCV2025]](https://github.com/tsinghua-fib-lab/UrbanLLaVA): a multimodal LLM for urban intelligence by integrating various urban data with language. 
   - [CityGPT[KDD2025]](https://github.com/tsinghua-fib-lab/CityGPT): empowering urban spatial cognition of LLMs through data synthesis and self-weighted tuning.
   - [CityBench[KDD2025]](https://github.com/tsinghua-fib-lab/CityBench): simulation-based evaluation benchmark for evaluating LLMs and VLMs in diverse urban tasks.
   - [AgentMove[NAACL2025]](https://github.com/tsinghua-fib-lab/AgentMove): LLM-based agentic framework for zero-shot human mobility prediction around the world.
