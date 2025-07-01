@@ -1,4 +1,4 @@
-Hi there 👋, I am [Jie Feng](https://vonfeng.github.io/), currently a postdoctoral fellow in the Department of Electronic Engineering at Tsinghua University, working in [FIB Lab](https://github.com/tsinghua-fib-lab). 
+Hi there 👋, I am [Jie Feng](https://vonfeng.github.io/), currently a postdoctoral fellow in Tsinghua University, working in [FIB Lab](https://github.com/tsinghua-fib-lab). 
 
 <a href='https://vonfeng.github.io/'><img src='https://img.shields.io/badge/Home-Page-green' /></a>&nbsp;
 <a href='https://scholar.google.com/citations?hl=en&user=uvLx-GAAAAAJ'><img src='https://img.shields.io/badge/Google-Scholar-blue' /></a>&nbsp;
