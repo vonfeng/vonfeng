@@ -16,7 +16,7 @@ jobs:
       - name: Calculate total stars
         run: |
           # 使用 curl 获取每个仓库的星标数
-          REPOS=("tsinghua-fib-lab/PIGEON" "tsinghua-fib-lab/CAMS" "tsinghua-fib-lab/LocalEval" "tsinghua-fib-lab/CityLens" "TSYJ-He/Mem4Nav_VLN" "tsinghua-fib-lab/Mem4Nav" "tsinghua-fib-lab/UrbanLLaVA" "vonfeng/DeepMove" "vonfeng/DPLink" "vonfeng/DeepSTN" "vonfeng/DeepMapMatching" "FIBLAB/DeepSTN" "FIBLAB/MoveSim" "FIBLAB/3D-DGCN" "XTxiatong/AttnMove" "tsinghua-fib-lab/CityBench" "tsinghua-fib-lab/AgentMove" "tsinghua-fib-lab/CityGPT" "tsinghua-fib-lab/Traffic-Benchmark" "tsinghua-fib-lab/LIMP" "tsinghua-fib-lab/UniST" "tsinghua-fib-lab/TrajAgent" "tsinghua-fib-lab/llm-energy" "tsinghua-fib-lab/EnergyAgent")
+          REPOS=("tsinghua-fib-lab/PIGEON" "tsinghua-fib-lab/CAMS" "tsinghua-fib-lab/LocalEval" "tsinghua-fib-lab/CityLens" "tsinghua-fib-lab/Mem4Nav" "tsinghua-fib-lab/UrbanLLaVA" "vonfeng/DeepMove" "vonfeng/DPLink" "vonfeng/DeepSTN" "vonfeng/DeepMapMatching" "FIBLAB/DeepSTN" "FIBLAB/MoveSim" "FIBLAB/3D-DGCN" "XTxiatong/AttnMove" "tsinghua-fib-lab/CityBench" "tsinghua-fib-lab/AgentMove" "tsinghua-fib-lab/CityGPT" "tsinghua-fib-lab/Traffic-Benchmark" "tsinghua-fib-lab/LIMP" "tsinghua-fib-lab/UniST" "tsinghua-fib-lab/TrajAgent" "tsinghua-fib-lab/llm-energy" "tsinghua-fib-lab/EnergyAgent")
           TOTAL_STARS=0
 
           for REPO in "${REPOS[@]}"
