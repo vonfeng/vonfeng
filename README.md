@@ -7,7 +7,7 @@ Hi there 👋, I am [Jie Feng](https://vonfeng.github.io/), currently a postdoct
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vonfeng.vonfeng)
 
 <!--- 🔭 I’m currently focused on **spatial intelligence**, **multi-modal LLMs**, **language agents**, and **urban science**. The research roadmap is presented below.-->
-<img src="http://vonfeng.github.io/images/research-road-map.jpg" alt="Research Road Map" style="width:100%; display:block; margin:auto;">
+<img src="http://vonfeng.github.io/images/research-road-map-v2.jpg" alt="Research Road Map" style="width:100%; display:block; margin:auto;">
   
 - 🌱 You can find my full publication via [Google Scholar](https://scholar.google.com/citations?hl=en&user=uvLx-GAAAAAJ). Some of my proudest works:
   - [UrbanLLaVA[ICCV2025]](https://github.com/tsinghua-fib-lab/UrbanLLaVA): a multimodal LLM for urban intelligence with spatial reasoning and understanding.
