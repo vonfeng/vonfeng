@@ -13,6 +13,7 @@ Hi there 👋, I am [Jie Feng](https://vonfeng.github.io/), currently a postdoct
   - [UrbanLLaVA[ICCV2025]](https://github.com/tsinghua-fib-lab/UrbanLLaVA): a multimodal LLM for urban intelligence with spatial reasoning and understanding.
   - [CityGPT[KDD2025]](https://github.com/tsinghua-fib-lab/CityGPT): empowering urban spatial cognition of LLMs through data synthesis and self-weighted tuning.
   - [CityBench[KDD2025]](https://github.com/tsinghua-fib-lab/CityBench): simulation-based evaluation benchmark for evaluating LLMs and VLMs in diverse urban tasks.
+  - [TrajAgent[NeurIPS2025]](https://github.com/tsinghua-fib-lab/TrajAgent): An Agent for Automated Trajectory Modeling via Collaboration of Large and Small Models.
   - [AgentMove[NAACL2025]](https://github.com/tsinghua-fib-lab/AgentMove): LLM-based agentic framework for zero-shot human mobility prediction around the world.
   - [DeepMove[WWW2018]](https://github.com/vonfeng/DeepMove): a well-known attention-based model for human mobility modeling, cited over 800 times.
 - 💬 I’m looking for collaboration opportunities
