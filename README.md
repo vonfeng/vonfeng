@@ -1,4 +1,4 @@
-Hi there 👋, I am [Jie Feng](https://vonfeng.github.io/), currently a postdoctoral fellow in Tsinghua University, working in [FIB Lab](https://github.com/tsinghua-fib-lab). 
+Hi there 👋, I am [Jie Feng](https://vonfeng.github.io/), currently a postdoctoral fellow in Tsinghua University. I will soon join [Zhongguancun Academy](https://www.bjzgca.edu.cn/) as an Assistant Professor. You can find my full publication via [Google Scholar](https://scholar.google.com/citations?hl=en&user=uvLx-GAAAAAJ).
 
 <a href='https://vonfeng.github.io/'><img src='https://img.shields.io/badge/Home-Page-green' /></a>&nbsp;
 <a href='https://scholar.google.com/citations?hl=en&user=uvLx-GAAAAAJ'><img src='https://img.shields.io/badge/Google-Scholar-blue' /></a>&nbsp;
@@ -6,31 +6,8 @@ Hi there 👋, I am [Jie Feng](https://vonfeng.github.io/), currently a postdoct
 <img src='https://img.shields.io/github/followers/vonfeng?color=green&style=social' />&nbsp;
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vonfeng.vonfeng)
 
-<!--- 🔭 I’m currently focused on **spatial intelligence**, **multi-modal LLMs**, **language agents**, and **urban science**. The research roadmap is presented below.-->
 <img src="http://vonfeng.github.io/images/research-road-map-v2.jpg" alt="Research Road Map" style="width:100%; display:block; margin:auto;">
-  
-- 🌱 You can find my full publication via [Google Scholar](https://scholar.google.com/citations?hl=en&user=uvLx-GAAAAAJ). Some of my proudest works:
-  - [UrbanLLaVA[ICCV2025]](https://github.com/tsinghua-fib-lab/UrbanLLaVA): a multimodal LLM for urban intelligence with spatial reasoning and understanding.
-  - [CityGPT[KDD2025]](https://github.com/tsinghua-fib-lab/CityGPT): empowering urban spatial cognition of LLMs through data synthesis and self-weighted tuning.
-  - [CityBench[KDD2025]](https://github.com/tsinghua-fib-lab/CityBench): simulation-based evaluation benchmark for evaluating LLMs and VLMs in diverse urban tasks.
-  - [TrajAgent[NeurIPS2025]](https://github.com/tsinghua-fib-lab/TrajAgent): An Agent for Automated Trajectory Modeling via Collaboration of Large and Small Models.
-  - [AgentMove[NAACL2025]](https://github.com/tsinghua-fib-lab/AgentMove): LLM-based agentic framework for zero-shot human mobility prediction around the world.
-  - [DeepMove[WWW2018]](https://github.com/vonfeng/DeepMove): a well-known attention-based model for human mobility modeling, cited over 800 times.
-- 💬 I’m looking for collaboration opportunities
-  - Topics: spatial intelligence, spatiotemporal data mining, large language models, embodied agent, etc.
-  - Location: Remote or on-site at Tsinghua University
 
-<!--
-**vonfeng/vonfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 I’m looking for collaboration opportunities
+  - Topics: spatial intelligence, agentic intelligence, multi-modal large language models, urban science, etc.
+  - Location: Remote or on-site at Tsinghua University or Zhongguancun Academy.  
